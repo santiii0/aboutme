@@ -1,29 +1,14 @@
 ## Welcome to Santi's Page
 
 
-### Santi's Code 
-
-Is currtently in DEV
+### Santi's Socials
+https://www.tiktok.com/@santiqtt / https://discord.gg/Mb94xbmP6t
 
 ```markdown
-Syntax highlighted code block
-
-# About Santi
-## Santi's Disord?
-### Some of his projects
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Wan't to learn how to do this just add ! santi#7777 or join : https://discord.gg/Mb94xbmP6t
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+“Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.” — Mark Twain
 
 ### Pilot
 Pilot is a bot powered by santi lol, he actully runs on autocode, you can try him by joining: https://discord.gg/2jg7g6Bcjy
