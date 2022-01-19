@@ -3,7 +3,7 @@
 
 ### Santi's Code 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Is currtently in DEV
 
 ```markdown
 Syntax highlighted code block
