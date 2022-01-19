@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Santi's Page
 
-You can use the [editor on GitHub](https://github.com/santiii0/santi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Santi's Code 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# About Santi
+## Santi's Disord?
+### Some of his projects
 
 - Bulleted
 - List
@@ -28,10 +25,9 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santiii0/santi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Pilot
+Pilot is a bot powered by santi lol, he actully runs on autocode, you can try him by joining: https://discord.gg/2jg7g6Bcjy
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having Trouble, just dm **! santi#7777 or join : https://discord.gg/2jg7g6Bcjy
